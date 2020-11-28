@@ -7,4 +7,4 @@
 
 代码来至于网络，修改部分代码以适应于新版 `jQuery`
 
-当前测试 `jQuery` 版本 `jQuery v3.4.1 |`
+当前测试 `jQuery` 版本 `jQuery v3.4.1`
